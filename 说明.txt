@@ -1,0 +1,3 @@
+管理员帐号：admin
+管理员密码：admin
+主程序：main.exe
